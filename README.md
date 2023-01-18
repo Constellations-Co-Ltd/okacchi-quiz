@@ -3,9 +3,6 @@
 ## 概要
 JavaScript、TypeScript、React...etc
 
-## 問題のリンク
-https://bitadev.backlog.jp/alias/wiki/1075471666
-
 ## 環境
 
 ### 対象ブラウザ
